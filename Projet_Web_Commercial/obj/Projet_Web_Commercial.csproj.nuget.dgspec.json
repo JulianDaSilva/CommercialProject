@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\Projet_Web_Commercial\\Projet_Web_Commercial.csproj": {}
+    "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\CommercialProject\\Projet_Web_Commercial\\Projet_Web_Commercial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\Projet_Web_Commercial\\Projet_Web_Commercial.csproj": {
+    "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\CommercialProject\\Projet_Web_Commercial\\Projet_Web_Commercial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\Projet_Web_Commercial\\Projet_Web_Commercial.csproj",
+        "projectUniqueName": "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\CommercialProject\\Projet_Web_Commercial\\Projet_Web_Commercial.csproj",
         "projectName": "Projet_Web_Commercial",
-        "projectPath": "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\Projet_Web_Commercial\\Projet_Web_Commercial.csproj",
+        "projectPath": "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\CommercialProject\\Projet_Web_Commercial\\Projet_Web_Commercial.csproj",
         "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\Projet_Web_Commercial\\obj\\",
+        "outputPath": "C:\\Users\\Julian\\source\\repos\\Projet_Web_Commercial\\CommercialProject\\Projet_Web_Commercial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -55,6 +59,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
             }
           },
           "imports": [
