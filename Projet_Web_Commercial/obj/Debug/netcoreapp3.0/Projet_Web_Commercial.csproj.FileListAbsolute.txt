@@ -252,3 +252,4 @@ C:\Users\Julian\source\repos\Projet_Web_Commercial\CommercialProject\Projet_Web_
 C:\Users\Julian\source\repos\Projet_Web_Commercial\CommercialProject\Projet_Web_Commercial\obj\Debug\netcoreapp3.0\Projet_Web_Commercial.dll
 C:\Users\Julian\source\repos\Projet_Web_Commercial\CommercialProject\Projet_Web_Commercial\obj\Debug\netcoreapp3.0\Projet_Web_Commercial.pdb
 C:\Users\Julian\source\repos\Projet_Web_Commercial\CommercialProject\Projet_Web_Commercial\bin\Debug\netcoreapp3.0\Dapper.dll
+C:\Users\Julian\source\repos\Projet_Web_Commercial\CommercialProject\Projet_Web_Commercial\obj\Debug\netcoreapp3.0\Projet_Web_Commercial.MvcApplicationPartsAssemblyInfo.cache
